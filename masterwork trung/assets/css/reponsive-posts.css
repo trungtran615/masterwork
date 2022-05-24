@@ -1,0 +1,7 @@
+@media (max-width: 991px){
+.slider {
+    grid-template-columns: 100%;
+    align-items: center;
+    
+}
+}
